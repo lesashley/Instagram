@@ -1,0 +1,26 @@
+.mg-top-0{
+  margin-top: 0;
+}
+.navbar-default img{
+  width: 70%;
+}
+.negrita{
+  font-weight: 600;
+}
+.navbar-default h1{
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+.navbar-default .row{
+  display: flex;
+  align-items: center;
+}
+.fotos [class*="col-"]{
+  padding: 1px;
+}
+.btn-primary{
+  margin: 2rem auto;
+}
+
+@media (max-width: 768px) {
+}
